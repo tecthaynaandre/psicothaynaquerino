@@ -1,0 +1,49 @@
+body{
+    background-color: #fcf4d4;
+}
+
+nav{
+    background-color: #967d23;
+    font-family:'Lucida Handwriting';
+    color: #ffff;
+}
+
+.parag-def{
+    text-align: justify;
+    color: rgb(56, 39, 7);
+    font-size: 1.2em;
+}
+
+h3{
+    font-family: 'Lucida Handwriting';
+    color:rgb(56, 39, 7);
+}
+
+h4{
+    font-family: 'Lucida Handwriting';
+    color:rgb(56, 39, 7);
+}
+
+h5{
+    color: rgb(56, 39, 7);
+}
+
+footer{
+    background-color: #967d23;
+    color: #ffff;
+    padding: 10px 0px 10px 0px;
+}
+
+.here{
+    background-color: rgba(206, 206, 206, 0.377);
+    border-radius: 6px;
+}
+
+.text-cont{
+    background-color: #7e6309;
+    color: rgba(255, 255, 255, 0.795);
+    box-shadow: 10px 5px 5px #8a7425;
+    border-radius: 7px;
+    text-align: center;
+    font-size: 0.9em;
+}
